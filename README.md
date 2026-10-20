@@ -1,3 +1,5 @@
+<img width="1024" height="366" alt="image" src="https://github.com/user-attachments/assets/5086a43f-7807-4def-a7f1-1c7e15a16d05" />
+
 # Shared Money — Android
 
 A native Android WebView wrapper for the Shared Money expense tracker and passbook.
